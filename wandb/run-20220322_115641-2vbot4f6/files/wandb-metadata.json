@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.4.0-97-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2022-03-22T11:56:43.916827",
+    "startedAt": "2022-03-22T11:56:41.364356",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "cpu_count": 24,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/root/.local/share/jupyter/runtime/kernel-f6969fb8-775c-4a4d-bcc4-fe4b51b26d06.json"
+    ],
+    "state": "running",
+    "program": "Shefa-Q-A/Shefa 1.ipynb",
+    "root": "/root/Shefa-Q-A",
+    "git": {
+        "remote": "https://github.com/Abdelrahmanrezk/Shefa-Q-A.git",
+        "commit": "ecf99e6403cb77fc4e16d16f6292ad604fdbb91f"
+    },
+    "email": null,
+    "host": "8a5cb2cacfe8",
+    "username": "root",
+    "executable": "/usr/bin/python3"
+}
