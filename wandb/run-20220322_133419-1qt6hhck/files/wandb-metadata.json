@@ -1,0 +1,24 @@
+{
+    "os": "Linux-4.15.0-171-generic-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.6.9",
+    "heartbeatAt": "2022-03-22T11:34:25.910190",
+    "startedAt": "2022-03-22T11:34:19.898801",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/abdelrahman/.local/share/jupyter/runtime/kernel-8796e8a6-7a6d-41d1-8a23-c8768ee38a61.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/Abdelrahmanrezk/Shefa-Q-A.git",
+        "commit": "3aefd91436e52d7ff48a57aa115497c69fe66a4a"
+    },
+    "email": "abdelrahmanhamdy33@gmail.com",
+    "root": "/home/abdelrahman/Downloads/quranqa/Qur'an QA 2022 Shared Task!/Shefa-Q-A",
+    "host": "Abdelrahman",
+    "username": "abdelrahman",
+    "executable": "/usr/bin/python3"
+}
